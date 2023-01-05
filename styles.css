@@ -1,0 +1,22 @@
+.center {
+    margin: auto;
+    width: 75%;
+    
+    padding: 10px;
+    background-color: white;
+}
+h1 {
+    text-align:center;
+}
+.image-container{
+    margin: auto;
+  
+    padding: 10px;
+    background-color: white;
+}
+
+img {
+    width: 33%;
+    height: 400px;
+}
+
